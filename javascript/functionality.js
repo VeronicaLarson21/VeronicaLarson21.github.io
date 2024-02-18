@@ -1,6 +1,6 @@
 
 function collapse(){
-var coll = document.getElementsByClassName("collapsible");
+var coll = document.getElementsByClassName("colapsible");
 var i;
 
 for (i = 0; i < coll.length; i++) {
